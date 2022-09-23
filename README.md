@@ -1,1 +1,1 @@
-"# sample_public_repository" 
+"# sample_private_repository" 
